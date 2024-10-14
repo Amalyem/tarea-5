@@ -1,0 +1,50 @@
+/*PAGINA PRINCIPAL: Navba 
+ section{
+    background-color: aqua;
+    debemos eliminar bg-dark en html img-fluid w-50 bg-dark
+ }*/
+ .navbar{
+    background-color: #4a235a ;
+ }
+
+ .imagen{
+    width: 400px;
+    height:200px
+ }
+  
+ p{
+    color: black;
+ }
+
+ .imagen-carrusel{
+    width: 600px;
+    height: 400px;
+ }
+ .container{
+    padding: 10px;
+ }
+
+ .imag{
+    width: 400;
+    height: 500px;
+ }
+ .materias {
+    padding: 40px 40px 60px 50px;
+ }
+.pasatiempos {
+    padding: 40px;
+    text-align: center;
+  }
+  .pasatiempos img {
+    height: 200px;
+    width: 350px;
+    padding: 10px;
+    border-radius: 10px;
+    display: block;
+    transition: all 0.2s ease;
+  }
+ footer{
+    background-color:  #4a235a ;
+    
+ }
+  
